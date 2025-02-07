@@ -7,10 +7,10 @@ env:
   applicationfolder: spring-boot-hello-world-example
 <<<<<<< HEAD
   AWS_REGION: us-east-1
-  S3BUCKET: codedeploystack-webappdeploymentbucket-a8xrssgaa8kq
+  S3BUCKET: codedeploystack-webappdeploymentbucket-pce5ra19uuag
 =======
   AWS_REGION: us-east-1
-  S3BUCKET: codedeploystack-webappdeploymentbucket-a8xrssgaa8kq
+  S3BUCKET: codedeploystack-webappdeploymentbucket-pce5ra19uuag
 >>>>>>> dc615f3 (initial code)
 
 
